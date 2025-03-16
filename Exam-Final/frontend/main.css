@@ -28,7 +28,7 @@ nav a {
 }
 
 .background {
-    background-image: url("imgweb/image1.jpg");
+    background-image: url("img/image1.jpg");
     background-size: cover;
     background-position: center;
     height: 500px;
